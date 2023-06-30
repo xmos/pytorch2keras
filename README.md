@@ -1,4 +1,5 @@
 # pytorch2keras
+Fork of gmalivenko/pytorch2keras to fix a bug where Relu 6 Operations are unable to be converted
 
 [![Build Status](https://travis-ci.com/gmalivenko/pytorch2keras.svg?branch=master)](https://travis-ci.com/gmalivenko/pytorch2keras)
 [![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
